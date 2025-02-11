@@ -16,7 +16,8 @@ The data contains details of various civil aviation aircrafts accidents that occ
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/2786e396-246a-4999-b5d7-2803eea85876" />
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/9a8a6ae7-f33f-4ac2-bb5d-9dc6a9bd562d" />
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/c1f69d66-3f4a-4fbd-aff0-a0123b0c7c84" />
-# Conclusion
+
+# Conclusions
 1. Top 3 highest risk aircrafts with the most accidents include Cessna, Piper, and Beech.
 2. Top 3 low risk aircrafts with the least accidents include Robinson, Boeing, Hughes.
 3. Aviation accidents have been reducing over time probably due to improvement in technology, training and regulations.
